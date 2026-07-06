@@ -1,0 +1,8 @@
+START
+INPUT Seatwork num1, 30%
+INPUT Quiz num2, 30%
+INPUT Examination num3, 40%
+PROCESS sum = num1 * 30%
+PROCESS sum = num2 * 30%
+PROCESS sum = num3 * 40%
+END
