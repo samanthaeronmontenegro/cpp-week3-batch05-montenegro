@@ -1,0 +1,6 @@
+START
+INPUT Price snack 1 num1
+INPUT Price snack 2 num2
+INPUT Price snack 3 num3
+PROCESS sum = num1 + num2 + num3
+END
