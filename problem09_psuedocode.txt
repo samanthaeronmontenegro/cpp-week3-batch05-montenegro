@@ -1,0 +1,8 @@
+START
+INPUT Point differential
+IF points > 0 "Win" THEN
+ELSE
+IF points < 0 "Lose" THEN
+ELSE
+IF points = 0 "Tie"
+END
