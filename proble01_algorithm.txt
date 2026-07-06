@@ -1,0 +1,8 @@
+Problem 1: Running Linear Problem
+
+Step 1: Start
+Step 2: Ask the user to put the distance goal. Store it as num1
+Step 3: Ask the user to put the distance already covered. Store it as num2
+Step 4:Compute sum= num1 + num2
+Step 5:Display average
+Step 6:End
