@@ -1,0 +1,9 @@
+Problem 9: Game Point Differential
+
+Step 1: Start 
+Step 2: Ask the user to enter the Point differential.
+Step 3: If the points > 0, Display "Win".
+Step 4: If the points is < 0, Display "Lose".
+Step 5: If the points is 0, Display "Tie".
+Step 6. Display the game points.
+Step 7: End
