@@ -1,0 +1,6 @@
+START
+INPUT service counter queue number
+IF number is dividible by 2 "Even" THEN
+ELSE
+IF number is not "Odd"
+END
