@@ -1,0 +1,9 @@
+Problem 2: Basketball Court Perimeter
+
+Step 1: Start
+Step 2: Ask the user to put the length of the basketball court. Store it as num1
+Step 3: Ask the user to put the width of the basketball court. Store it as num2
+Step 4: Compute the total sum of the length and width of the basketball court
+Step 5: Display the sum = num1 + num2
+Step 6: Display the total average 
+Step 7: End.
