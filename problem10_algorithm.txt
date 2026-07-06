@@ -1,0 +1,8 @@
+Problem 10: Queue Number Check
+
+Step 1: Start
+Step 2: Ask the user to enter the service counter queue number.
+Step 3: If the number is divisible by 2, Display "Even".
+Step 4: If not, Display "Odd".
+Step 5: Display the queue numbers.
+Step 6: End
