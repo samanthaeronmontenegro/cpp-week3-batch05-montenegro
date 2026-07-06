@@ -1,0 +1,5 @@
+START
+INPUT Length num1
+INPUT Width num2
+PROCESS sum = num1 + num2
+END
