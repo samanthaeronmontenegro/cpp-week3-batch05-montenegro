@@ -1,0 +1,7 @@
+START
+INPUT Comission rate num1
+INPUT Total sale num2
+INPUT Base pay num3
+PROCESS sum = num2 * num1
+PROCESS sum = num3 + sum of num1 & num2
+END
