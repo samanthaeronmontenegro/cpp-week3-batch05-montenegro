@@ -1,0 +1,14 @@
+Problem 7: Requirement Standing Computation
+
+Step 1: Start
+Step 2: Ask the user to enter the seatwork. Store it as num1.
+Step 3: Ask the user to enter the quiz. Store it as num2.
+Step 4: Ask the user to enter the examination. Store it as num3.
+Step 5: Enter the 30% score on seatwwork.
+Step 6: Enter the 30% score on quiz.
+Step 7: Enter the 40% score on examination.
+Step 8: Compute the average sum = num1 * 30%
+Step 9: Compute the average sum = num2 * 30%
+Step 10: Compute the average sum = num3 * 40%
+Step 11: Display the average
+Step 12: End
