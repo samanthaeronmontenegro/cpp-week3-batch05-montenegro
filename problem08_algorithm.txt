@@ -1,0 +1,8 @@
+Problem 8: Honor Roll Eligibility
+
+Step 1: Start
+Step 2: Ask the user to enter the general average.
+Step 3: If the average is > 90, display "Eligible for Honor Roll".
+Step 4: Ifthe average is < 90, display "Not Eligible for Honor Roll".
+Step 5: Display the general average
+Step 6: End
